@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="write_city">Ciudad</string>
+    <string name="consult_weather">"Consultar climar actual "</string>
+    <string name="current_weather">Clima actual: </string>
+    <string name="max_temp">Temperatura maxima: </string>
+</resources>
